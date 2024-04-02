@@ -3,8 +3,8 @@
 #include <ESP8266WiFi.h>
 
 //password access point
-const char *ap_ssid = "hewan";
-const char *ap_password = "asu12345";
+const char *ap_ssid = "Teknik";
+const char *ap_password = "";
 
 AsyncWebServer server(80);
 String webpage;
